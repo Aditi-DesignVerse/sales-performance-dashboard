@@ -21,7 +21,7 @@ The dashboard analyzes sales, profit, customer segments, product performance, an
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ## Key Insights
 
