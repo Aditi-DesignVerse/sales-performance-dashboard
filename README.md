@@ -1,4 +1,8 @@
 # Sales Performance Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-orange)
 
 ## Overview
 
